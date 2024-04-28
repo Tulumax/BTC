@@ -1,0 +1,231 @@
+/* /* Desktop - 1 */
+
+position:relative
+width:1440px 
+height:5000px
+
+background: #FFFFFF
+
+
+.Шапка{
+
+position: absolute
+width: 1440px
+height: 120px
+left: 0px
+top: 0px}
+
+
+
+/* Rectangle 1 */
+
+position: absolute
+width: 1440px
+height: 120px
+left: 0px
+top: 0px
+background: #D9D9D9
+mix-blend-mode: exclusion
+
+
+/* Главная */
+
+position: absolute
+width: 228px
+height: 78px
+left: 188px
+top: 21px
+
+
+
+/* Главная */
+
+position: absolute
+left: 0%
+right: 0%
+top: 0%
+bottom: 0%
+
+font-family: 'Inter'
+font-style: normal
+font-weight: 600
+font-size: 40px
+line-height: 150%
+/* or 60px */
+display: flex
+align-items: center
+
+color: #FFFFFF
+
+
+
+/* Новости */
+
+position: absolute
+width: 228px
+height: 78px
+left: 416px
+top: 21px
+
+
+
+/* Главная */
+
+position: absolute
+left: 0%
+right: 0%
+top: 0%
+bottom: 0%
+
+font-family: 'Inter'
+font-style: normal
+font-weight: 600
+font-size: 40px
+line-height: 150%
+/* or 60px */
+display: flex
+align-items: center
+
+color: #FFFFFF
+
+
+
+/* Контакты */
+
+position: absolute
+width: 228px
+height: 78px
+left: 644px
+top: 21px
+
+
+
+/* Контакты */
+
+position: absolute
+left: 0%
+right: 0%
+top: 0%
+bottom: 0%
+
+font-family: 'Inter'
+font-style: normal
+font-weight: 600
+font-size: 40px
+line-height: 150%
+/* or 60px */
+display: flex
+align-items: center
+
+color: #FFFFFF
+
+
+
+/* Rectangle 2 */
+
+position: absolute
+width: 100px
+height: 100px
+left: 13px
+top: 10px
+
+background: url(изображение.png)
+border-radius: 50px
+
+
+/* Подвал */
+
+position: absolute
+width: 1440px
+height: 350px
+left: 0px
+top: 4650px
+
+
+
+/* Rectangle 1 */
+
+position: absolute
+width: 1440px
+height: 350px
+left: 0px
+top: 4650px
+
+background: #D9D9D9
+mix-blend-mode: exclusion
+
+
+/* Главная */
+
+position: absolute
+width: 228px
+height: 227.5px
+left: 1212px
+top: 4725px
+
+
+
+/* Главная */
+
+position: absolute
+left: 0%
+right: 0%
+top: 0%
+bottom: 0%
+
+font-family: 'Inter'
+font-style: normal
+font-weight: 600
+font-size: 40px
+line-height: 150%
+/* or 60px */
+display: flex
+align-items: center
+
+color: #FFFFFF
+
+
+
+/* Rectangle 2 */
+position: absolute
+width: 270px
+height: 274px
+left: 13px
+top: 4679px
+
+background: url(изображение.png)
+border-radius: 50px
+
+
+/* Rectangle 3 */
+
+position: absolute
+width: 581px
+height: 669px
+left: 63px
+top: 173px
+
+background: #D9D9D9
+border-radius: 40px
+
+
+/* Курс Биткоина */
+
+position: absolute
+width: 296px
+height: 60px
+left: 113px
+top: 173px
+
+font-family: 'Inter'
+font-style: normal
+font-weight: 600
+font-size: 40px
+line-height: 150%
+/* identical to box height, or 60px */
+display: flex
+align-items: center
+
+color: #000000 */
+
+
